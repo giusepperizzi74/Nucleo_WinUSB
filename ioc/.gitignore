@@ -1,0 +1,9 @@
+# Ignore all files in this directory
+*
+
+# except the following ones
+!*.ioc
+!.gitignore
+
+
+

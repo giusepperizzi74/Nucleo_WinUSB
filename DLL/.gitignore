@@ -1,0 +1,9 @@
+# Ignore all files in the .vs directory
+.vs/
+
+# but do track x64/Debug
+!x64/Debug 
+
+
+
+

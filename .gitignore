@@ -1,0 +1,10 @@
+# Ignore all files in the Debug directory
+Debug/*
+
+# But do not ignore these specific files
+!Debug/Nucleo_WinUSB.bin
+!Debug/Nucleo_WinUSB.elf
+
+
+
+
