@@ -1,7 +1,7 @@
 # Nucleo_WinUSB
 This project demonstrates how to configure the USB peripheral of a Nucleo-H563ZI EVB to have MS-Windows recognize it as a WinUSB device.
 
-<img src="doc/usage.png" alt="Connections" width="460" height="500"/>"
+<img src="doc/usage.png" alt="Connections" width="460" height="500"/>
 
 
 ## Notes
